@@ -181,6 +181,6 @@ fpga-pest-detection/
 
 # Author
 
-Sriteja S N  
-Electronics / Data Science Student  
+D. Srinivas Rao  
+ECE Student  
 Developed during Hacktronics Hackathon
