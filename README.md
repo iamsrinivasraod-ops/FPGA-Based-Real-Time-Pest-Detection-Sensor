@@ -1,5 +1,4 @@
 # FPGA-Based-Real-Time-Pest-Detection-Sensor
-# FPGA-Based Real-Time Pest Detection System
 
 This project implements a **real-time pest detection system on FPGA** using basic image processing and environmental sensing.  
 The system was developed during a **36-hour Hacktronics hackathon** and demonstrates how edge detection combined with environmental sensor data can be used to detect potential pest presence in agricultural environments.
